@@ -11,19 +11,19 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+1.- www.instagram.com/kathy_dg8
 
-2.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+2.- www.instagram.com/kathy_dg8
 
-3.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+3.- www.instagram.com/kathy_dg8
 
-4.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+4.- www.instagram.com/kathy_dg8
 
 > KillzN Store OFC :
 
-1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+1.- www.instagram.com/kathy_dg8
 
-2.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`.trim();
+2.- www.instagram.com/kathy_dg8`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/KillzN`},
     'mimetype': `application/${document}`,
